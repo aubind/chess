@@ -1,2 +1,0 @@
-# chess
-Basic chess program
